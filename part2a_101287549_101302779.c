@@ -1,8 +1,4 @@
-// part2a.c
-// Compile: gcc -o ta_markers part2a.c -std=c11
-// Run: ./ta_markers <num_TAs> <num_exams>
-// Expects directory ./exams/exam01.txt ... examNN.txt and rubric.txt in current directory.
-
+#define _DEFAULT_SOURCE
 #define _XOPEN_SOURCE 700
 #include <stdio.h>
 #include <stdlib.h>
@@ -21,11 +17,10 @@
 #define MAX_FILENAME 256
 
 typedef struct {
-    int total_exams;        // total number of exams available
-    int exam_index;         // index of current exam loaded (0-based)
-    int student_num;        // current exam's student number (e.g., 1..9999)
-    int question_marked[NUM_QUESTIONS]; // 0 if not marked, 1 if marked
-    // We store rubric as single character for each question (first char after comma)
+    int total_exams;        
+    int exam_index;         
+    int student_num;        
+    int question_marked[NUM_QUESTIONS]; 
     char rubric[RUBRIC_LINES];
     // small flag to indicate an exam is being (re)loaded - not used for protection here
     int loading;
@@ -82,7 +77,6 @@ void load_rubric_to_shm(shared_data_t *s) {
             while (*q == ' ' || *q == '\t') q++;
             if (*q != '\0' && *q != '\n' && *q != '\r') c = *q;
         } else {
-            // fallback: take first non-space char
             char *q = line;
             while (*q == ' ' || *q == '\t') q++;
             if (*q != '\0' && *q != '\n' && *q != '\r') c = *q;
@@ -112,7 +106,7 @@ void save_rubric_from_shm(shared_data_t *s) {
 /* load exam index into shared memory: reads student number and resets question_marked */
 void load_exam_to_shm(shared_data_t *s, int idx) {
     char fname[MAX_FILENAME];
-    snprintf(fname, sizeof(fname), "exams/exam%02d.txt", idx+1); // exam01.txt ...
+    snprintf(fname, sizeof(fname), "exams/exam%02d.txt", idx+1); 
     int sn = read_student_number_from_file(fname);
     if (sn < 0) {
         // If cannot read file, treat as sentinel 9999 to stop
@@ -211,7 +205,7 @@ void ta_worker(int ta_id) {
             printf("[TA %d] Finished marking student %04d question %d\n", ta_id, shm->student_num, picked+1);
             fflush(stdout);
             any_marked = 1;
-            // continue to try another question
+            
         }
 
         if (local_done) {
@@ -227,7 +221,6 @@ void ta_worker(int ta_id) {
                 break;
             } else {
                 // Attempt to load the next exam into shared memory
-                // NOTE: no synchronization - multiple TAs may do this concurrently for Part 2.a
                 printf("[TA %d] All questions on exam %d appear done. Loading next exam (%d)...\n", ta_id, cur_idx+1, next_idx+1);
                 fflush(stdout);
                 shm->exam_index = next_idx;
@@ -243,9 +236,9 @@ void ta_worker(int ta_id) {
                 }
             }
         } else {
-            // shouldn't normally get here, continue
+            
         }
-    } // while
+    } 
 
     // detach shared mem
     shmdt((void*)shm);
