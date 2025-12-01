@@ -17,12 +17,12 @@ RUNNING YOUR PROGRAM
 For part 2a, run in your terminal
 
 ./part2a <num_TAs> <num_exams>
-# Example: ./ta_markers 4 20
+# Example: ./part2a 4 20
 
 For part 2b, run in your terminal
 
 ./part2b <num_TAs> <num_exams>
-# Example: ./ta_markers 4 20
+# Example: ./part2b 4 20
 
 
 

@@ -22,7 +22,7 @@ typedef struct {
     int student_num;
     int question_marked[NUM_QUESTIONS];
     char rubric[RUBRIC_LINES];
-    int loading; // flag if an exam is being loaded
+    int loading; 
 } shared_data_t;
 
 int shmid = -1;
