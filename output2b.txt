@@ -1,0 +1,347 @@
+[TA 1] Working on exam index 1 (student 5887)
+[TA 2] Working on exam index 1 (student 5887)
+[TA 3] Working on exam index 1 (student 5887)
+[TA 3] Modified rubric for question 1: " -> # (saved)
+[TA 2] Modified rubric for question 1: # -> $ (saved)
+[TA 1] Modified rubric for question 1: $ -> % (saved)
+[TA 3] Checked rubric for question 2: $ (no change)
+[TA 2] Modified rubric for question 2: $ -> % (saved)
+[TA 1] Modified rubric for question 2: % -> & (saved)
+[TA 3] Modified rubric for question 3: ( -> ) (saved)
+[TA 2] Modified rubric for question 3: ) -> * (saved)
+[TA 1] Checked rubric for question 3: * (no change)
+[TA 3] Checked rubric for question 4:  (no change)
+[TA 1] Modified rubric for question 4:  ->  (saved)
+[TA 2] Checked rubric for question 4:  (no change)
+[TA 3] Checked rubric for question 5: [ (no change)
+[TA 3] Marking student 5887 question 1 (will take 1.264 s)
+[TA 2] Modified rubric for question 5: [ -> \ (saved)
+[TA 2] Marking student 5887 question 2 (will take 1.028 s)
+[TA 1] Modified rubric for question 5: \ -> ] (saved)
+[TA 1] Marking student 5887 question 3 (will take 1.649 s)
+[TA 3] Finished marking student 5887 question 1
+[TA 3] Marking student 5887 question 4 (will take 1.381 s)
+[TA 2] Finished marking student 5887 question 2
+[TA 2] Marking student 5887 question 5 (will take 1.451 s)
+[TA 1] Finished marking student 5887 question 3
+[TA 1] Loaded exam 2 (student 1693).
+[TA 1] Working on exam index 2 (student 1693)
+[TA 3] Finished marking student 1693 question 4
+[TA 3] Marking student 1693 question 1 (will take 1.649 s)
+[TA 2] Finished marking student 1693 question 5
+[TA 2] Marking student 1693 question 2 (will take 1.068 s)
+[TA 1] Modified rubric for question 1: % -> & (saved)
+[TA 1] Modified rubric for question 2: & -> ' (saved)
+[TA 2] Finished marking student 1693 question 2
+[TA 2] Marking student 1693 question 3 (will take 1.576 s)
+[TA 3] Finished marking student 1693 question 1
+[TA 3] Marking student 1693 question 4 (will take 1.536 s)
+[TA 1] Checked rubric for question 3: * (no change)
+[TA 1] Modified rubric for question 4:  ->  (saved)
+[TA 2] Finished marking student 1693 question 3
+[TA 2] Marking student 1693 question 5 (will take 1.468 s)
+[TA 3] Finished marking student 1693 question 4
+[TA 3] Loaded exam 3 (student 8312).
+[TA 3] Working on exam index 3 (student 8312)
+[TA 1] Modified rubric for question 5: ] -> ^ (saved)
+[TA 1] Marking student 8312 question 1 (will take 1.592 s)
+[TA 3] Checked rubric for question 1: & (no change)
+[TA 2] Finished marking student 8312 question 5
+[TA 2] Marking student 8312 question 2 (will take 1.350 s)
+[TA 3] Checked rubric for question 2: ' (no change)
+[TA 1] Finished marking student 8312 question 1
+[TA 1] Marking student 8312 question 3 (will take 1.639 s)
+[TA 2] Finished marking student 8312 question 2
+[TA 2] Marking student 8312 question 4 (will take 1.653 s)
+[TA 3] Modified rubric for question 3: * -> + (saved)
+[TA 3] Checked rubric for question 4:  (no change)
+[TA 1] Finished marking student 8312 question 3
+[TA 1] Marking student 8312 question 5 (will take 1.258 s)
+[TA 3] Checked rubric for question 5: ^ (no change)
+[TA 3] Loaded exam 4 (student 5942).
+[TA 3] Working on exam index 4 (student 5942)
+[TA 2] Finished marking student 5942 question 4
+[TA 2] Marking student 5942 question 1 (will take 1.247 s)
+[TA 3] Modified rubric for question 1: & -> ' (saved)
+[TA 1] Finished marking student 5942 question 5
+[TA 1] Marking student 5942 question 2 (will take 1.358 s)
+[TA 2] Finished marking student 5942 question 1
+[TA 2] Marking student 5942 question 3 (will take 1.089 s)
+[TA 3] Checked rubric for question 2: ' (no change)
+[TA 3] Modified rubric for question 3: + -> , (saved)
+[TA 1] Finished marking student 5942 question 2
+[TA 1] Marking student 5942 question 4 (will take 1.258 s)
+[TA 2] Finished marking student 5942 question 3
+[TA 2] Marking student 5942 question 5 (will take 1.844 s)
+[TA 3] Checked rubric for question 4:  (no change)
+[TA 3] Modified rubric for question 5: ^ -> _ (saved)
+[TA 3] Loaded exam 5 (student 3046).
+[TA 3] Working on exam index 5 (student 3046)
+[TA 1] Finished marking student 3046 question 4
+[TA 1] Marking student 3046 question 1 (will take 1.018 s)
+[TA 3] Checked rubric for question 1: ' (no change)
+[TA 2] Finished marking student 3046 question 5
+[TA 2] Marking student 3046 question 2 (will take 1.360 s)
+[TA 1] Finished marking student 3046 question 1
+[TA 1] Marking student 3046 question 3 (will take 1.860 s)
+[TA 3] Modified rubric for question 2: ' -> ( (saved)
+[TA 2] Finished marking student 3046 question 2
+[TA 2] Marking student 3046 question 4 (will take 1.653 s)
+[TA 3] Checked rubric for question 3: , (no change)
+[TA 3] Checked rubric for question 4:  (no change)
+[TA 1] Finished marking student 3046 question 3
+[TA 1] Marking student 3046 question 5 (will take 1.377 s)
+[TA 3] Modified rubric for question 5: _ -> ` (saved)
+[TA 3] Loaded exam 6 (student 2862).
+[TA 3] Working on exam index 6 (student 2862)
+[TA 2] Finished marking student 2862 question 4
+[TA 2] Marking student 2862 question 1 (will take 1.774 s)
+[TA 1] Finished marking student 2862 question 5
+[TA 1] Marking student 2862 question 2 (will take 1.626 s)
+[TA 3] Modified rubric for question 1: ' -> ( (saved)
+[TA 3] Modified rubric for question 2: ( -> ) (saved)
+[TA 2] Finished marking student 2862 question 1
+[TA 2] Marking student 2862 question 3 (will take 1.639 s)
+[TA 1] Finished marking student 2862 question 2
+[TA 1] Marking student 2862 question 4 (will take 1.014 s)
+[TA 3] Checked rubric for question 3: , (no change)
+[TA 3] Modified rubric for question 4:  ->  (saved)
+[TA 1] Finished marking student 2862 question 4
+[TA 1] Marking student 2862 question 5 (will take 1.307 s)
+[TA 2] Finished marking student 2862 question 3
+[TA 2] Loaded exam 7 (student 1594).
+[TA 2] Working on exam index 7 (student 1594)
+[TA 3] Modified rubric for question 5: ` -> a (saved)
+[TA 3] Marking student 1594 question 1 (will take 1.709 s)
+[TA 2] Modified rubric for question 1: ( -> ) (saved)
+[TA 1] Finished marking student 1594 question 5
+[TA 1] Marking student 1594 question 2 (will take 1.034 s)
+[TA 2] Modified rubric for question 2: ) -> * (saved)
+[TA 3] Finished marking student 1594 question 1
+[TA 3] Marking student 1594 question 3 (will take 1.277 s)
+[TA 1] Finished marking student 1594 question 2
+[TA 1] Marking student 1594 question 4 (will take 1.574 s)
+[TA 2] Modified rubric for question 3: , -> - (saved)
+[TA 3] Finished marking student 1594 question 3
+[TA 3] Marking student 1594 question 5 (will take 1.994 s)
+[TA 2] Checked rubric for question 4:  (no change)
+[TA 1] Finished marking student 1594 question 4
+[TA 1] Loaded exam 8 (student 2222).
+[TA 1] Working on exam index 8 (student 2222)
+[TA 2] Modified rubric for question 5: a -> b (saved)
+[TA 2] Marking student 2222 question 1 (will take 1.029 s)
+[TA 1] Modified rubric for question 1: ) -> * (saved)
+[TA 2] Finished marking student 2222 question 1
+[TA 2] Marking student 2222 question 2 (will take 1.158 s)
+[TA 1] Checked rubric for question 2: * (no change)
+[TA 3] Finished marking student 2222 question 5
+[TA 3] Marking student 2222 question 3 (will take 1.487 s)
+[TA 1] Modified rubric for question 3: - -> . (saved)
+[TA 2] Finished marking student 2222 question 2
+[TA 2] Marking student 2222 question 4 (will take 1.902 s)
+[TA 1] Modified rubric for question 4:  ->  (saved)
+[TA 3] Finished marking student 2222 question 3
+[TA 3] Marking student 2222 question 5 (will take 1.687 s)
+[TA 1] Checked rubric for question 5: b (no change)
+[TA 1] Loaded exam 9 (student 4567).
+[TA 1] Working on exam index 9 (student 4567)
+[TA 1] Modified rubric for question 1: * -> + (saved)
+[TA 2] Finished marking student 4567 question 4
+[TA 2] Marking student 4567 question 1 (will take 1.974 s)
+[TA 3] Finished marking student 4567 question 5
+[TA 3] Marking student 4567 question 2 (will take 1.543 s)
+[TA 1] Modified rubric for question 2: * -> + (saved)
+[TA 1] Modified rubric for question 3: . -> / (saved)
+[TA 3] Finished marking student 4567 question 2
+[TA 3] Marking student 4567 question 3 (will take 1.215 s)
+[TA 1] Modified rubric for question 4:  ->   (saved)
+[TA 2] Finished marking student 4567 question 1
+[TA 2] Marking student 4567 question 4 (will take 1.526 s)
+[TA 1] Checked rubric for question 5: b (no change)
+[TA 1] Marking student 4567 question 5 (will take 1.372 s)
+[TA 3] Finished marking student 4567 question 3
+[TA 3] Loaded exam 10 (student 3476).
+[TA 3] Working on exam index 10 (student 3476)
+[TA 2] Finished marking student 3476 question 4
+[TA 2] Marking student 3476 question 1 (will take 1.507 s)
+[TA 1] Finished marking student 3476 question 5
+[TA 1] Marking student 3476 question 2 (will take 1.422 s)
+[TA 3] Checked rubric for question 1: + (no change)
+[TA 3] Checked rubric for question 2: + (no change)
+[TA 2] Finished marking student 3476 question 1
+[TA 2] Marking student 3476 question 3 (will take 1.696 s)
+[TA 1] Finished marking student 3476 question 2
+[TA 1] Marking student 3476 question 4 (will take 1.492 s)
+[TA 3] Modified rubric for question 3: / -> 0 (saved)
+[TA 3] Checked rubric for question 4:   (no change)
+[TA 2] Finished marking student 3476 question 3
+[TA 2] Marking student 3476 question 5 (will take 1.072 s)
+[TA 1] Finished marking student 3476 question 4
+[TA 1] Loaded exam 11 (student 3774).
+[TA 1] Working on exam index 11 (student 3774)
+[TA 3] Modified rubric for question 5: b -> c (saved)
+[TA 3] Marking student 3774 question 1 (will take 1.170 s)
+[TA 1] Checked rubric for question 1: + (no change)
+[TA 2] Finished marking student 3774 question 5
+[TA 2] Marking student 3774 question 2 (will take 1.477 s)
+[TA 3] Finished marking student 3774 question 1
+[TA 3] Marking student 3774 question 3 (will take 1.951 s)
+[TA 1] Checked rubric for question 2: + (no change)
+[TA 2] Finished marking student 3774 question 2
+[TA 2] Marking student 3774 question 4 (will take 1.765 s)
+[TA 1] Checked rubric for question 3: 0 (no change)
+[TA 1] Modified rubric for question 4:   -> ! (saved)
+[TA 3] Finished marking student 3774 question 3
+[TA 3] Marking student 3774 question 5 (will take 1.132 s)
+[TA 1] Modified rubric for question 5: c -> d (saved)
+[TA 1] Loaded exam 12 (student 6381).
+[TA 1] Working on exam index 12 (student 6381)
+[TA 2] Finished marking student 6381 question 4
+[TA 2] Marking student 6381 question 1 (will take 1.648 s)
+[TA 1] Modified rubric for question 1: + -> , (saved)
+[TA 3] Finished marking student 6381 question 5
+[TA 3] Marking student 6381 question 2 (will take 1.489 s)
+[TA 1] Checked rubric for question 2: + (no change)
+[TA 2] Finished marking student 6381 question 1
+[TA 2] Marking student 6381 question 3 (will take 1.945 s)
+[TA 1] Modified rubric for question 3: 0 -> 1 (saved)
+[TA 3] Finished marking student 6381 question 2
+[TA 3] Marking student 6381 question 4 (will take 1.407 s)
+[TA 1] Checked rubric for question 4: ! (no change)
+[TA 1] Checked rubric for question 5: d (no change)
+[TA 1] Marking student 6381 question 5 (will take 1.114 s)
+[TA 3] Finished marking student 6381 question 4
+[TA 3] Loaded exam 13 (student 1070).
+[TA 3] Working on exam index 13 (student 1070)
+[TA 2] Finished marking student 1070 question 3
+[TA 2] Marking student 1070 question 1 (will take 1.633 s)
+[TA 1] Finished marking student 1070 question 5
+[TA 1] Marking student 1070 question 2 (will take 1.949 s)
+[TA 3] Checked rubric for question 1: , (no change)
+[TA 3] Modified rubric for question 2: + -> , (saved)
+[TA 2] Finished marking student 1070 question 1
+[TA 2] Marking student 1070 question 3 (will take 1.301 s)
+[TA 3] Checked rubric for question 3: 1 (no change)
+[TA 1] Finished marking student 1070 question 2
+[TA 1] Marking student 1070 question 4 (will take 1.148 s)
+[TA 2] Finished marking student 1070 question 3
+[TA 2] Marking student 1070 question 5 (will take 1.192 s)
+[TA 3] Checked rubric for question 4: ! (no change)
+[TA 1] Finished marking student 1070 question 4
+[TA 1] Loaded exam 14 (student 2695).
+[TA 1] Working on exam index 14 (student 2695)
+[TA 3] Checked rubric for question 5: d (no change)
+[TA 3] Marking student 2695 question 1 (will take 1.434 s)
+[TA 2] Finished marking student 2695 question 5
+[TA 2] Marking student 2695 question 2 (will take 1.722 s)
+[TA 1] Modified rubric for question 1: , -> - (saved)
+[TA 1] Checked rubric for question 2: , (no change)
+[TA 3] Finished marking student 2695 question 1
+[TA 3] Marking student 2695 question 3 (will take 1.459 s)
+[TA 1] Checked rubric for question 3: 1 (no change)
+[TA 2] Finished marking student 2695 question 2
+[TA 2] Marking student 2695 question 4 (will take 1.664 s)
+[TA 1] Checked rubric for question 4: ! (no change)
+[TA 1] Modified rubric for question 5: d -> e (saved)
+[TA 1] Marking student 2695 question 5 (will take 1.137 s)
+[TA 3] Finished marking student 2695 question 3
+[TA 3] Loaded exam 15 (student 8319).
+[TA 3] Working on exam index 15 (student 8319)
+[TA 2] Finished marking student 8319 question 4
+[TA 2] Marking student 8319 question 1 (will take 1.070 s)
+[TA 3] Checked rubric for question 1: - (no change)
+[TA 1] Finished marking student 8319 question 5
+[TA 1] Marking student 8319 question 2 (will take 1.558 s)
+[TA 2] Finished marking student 8319 question 1
+[TA 2] Marking student 8319 question 3 (will take 1.893 s)
+[TA 3] Checked rubric for question 2: , (no change)
+[TA 3] Checked rubric for question 3: 1 (no change)
+[TA 1] Finished marking student 8319 question 2
+[TA 1] Marking student 8319 question 4 (will take 1.172 s)
+[TA 3] Modified rubric for question 4: ! -> " (saved)
+[TA 2] Finished marking student 8319 question 3
+[TA 2] Marking student 8319 question 5 (will take 1.438 s)
+[TA 1] Finished marking student 8319 question 4
+[TA 1] Loaded exam 16 (student 9602).
+[TA 1] Working on exam index 16 (student 9602)
+[TA 3] Modified rubric for question 5: e -> f (saved)
+[TA 3] Marking student 9602 question 1 (will take 1.553 s)
+[TA 1] Modified rubric for question 1: - -> . (saved)
+[TA 2] Finished marking student 9602 question 5
+[TA 2] Marking student 9602 question 2 (will take 1.708 s)
+[TA 1] Checked rubric for question 2: , (no change)
+[TA 3] Finished marking student 9602 question 1
+[TA 3] Marking student 9602 question 3 (will take 1.627 s)
+[TA 1] Checked rubric for question 3: 1 (no change)
+[TA 1] Checked rubric for question 4: " (no change)
+[TA 2] Finished marking student 9602 question 2
+[TA 2] Marking student 9602 question 4 (will take 1.561 s)
+[TA 3] Finished marking student 9602 question 3
+[TA 3] Marking student 9602 question 5 (will take 1.431 s)
+[TA 1] Modified rubric for question 5: f -> g (saved)
+[TA 1] Loaded exam 17 (student 5403).
+[TA 1] Working on exam index 17 (student 5403)
+[TA 1] Modified rubric for question 1: . -> / (saved)
+[TA 2] Finished marking student 5403 question 4
+[TA 2] Marking student 5403 question 1 (will take 1.478 s)
+[TA 3] Finished marking student 5403 question 5
+[TA 3] Marking student 5403 question 2 (will take 1.404 s)
+[TA 1] Checked rubric for question 2: , (no change)
+[TA 1] Modified rubric for question 3: 1 -> 2 (saved)
+[TA 2] Finished marking student 5403 question 1
+[TA 2] Marking student 5403 question 3 (will take 1.125 s)
+[TA 3] Finished marking student 5403 question 2
+[TA 3] Marking student 5403 question 4 (will take 1.797 s)
+[TA 1] Modified rubric for question 4: " -> # (saved)
+[TA 2] Finished marking student 5403 question 3
+[TA 2] Marking student 5403 question 5 (will take 1.854 s)
+[TA 1] Checked rubric for question 5: g (no change)
+[TA 1] Loaded exam 18 (student 2213).
+[TA 1] Working on exam index 18 (student 2213)
+[TA 3] Finished marking student 2213 question 4
+[TA 3] Marking student 2213 question 1 (will take 1.382 s)
+[TA 1] Checked rubric for question 1: / (no change)
+[TA 1] Modified rubric for question 2: , -> - (saved)
+[TA 2] Finished marking student 2213 question 5
+[TA 2] Marking student 2213 question 2 (will take 1.291 s)
+[TA 3] Finished marking student 2213 question 1
+[TA 3] Marking student 2213 question 3 (will take 1.535 s)
+[TA 1] Modified rubric for question 3: 2 -> 3 (saved)
+[TA 2] Finished marking student 2213 question 2
+[TA 2] Marking student 2213 question 4 (will take 1.620 s)
+[TA 1] Modified rubric for question 4: # -> $ (saved)
+[TA 3] Finished marking student 2213 question 3
+[TA 3] Marking student 2213 question 5 (will take 1.286 s)
+[TA 1] Modified rubric for question 5: g -> h (saved)
+[TA 1] Loaded exam 19 (student 3815).
+[TA 1] Working on exam index 19 (student 3815)
+[TA 1] Checked rubric for question 1: / (no change)
+[TA 2] Finished marking student 3815 question 4
+[TA 2] Marking student 3815 question 1 (will take 1.638 s)
+[TA 1] Checked rubric for question 2: - (no change)
+[TA 3] Finished marking student 3815 question 5
+[TA 3] Marking student 3815 question 2 (will take 1.307 s)
+[TA 1] Modified rubric for question 3: 3 -> 4 (saved)
+[TA 3] Finished marking student 3815 question 2
+[TA 3] Marking student 3815 question 3 (will take 1.976 s)
+[TA 2] Finished marking student 3815 question 1
+[TA 2] Marking student 3815 question 4 (will take 1.248 s)
+[TA 1] Checked rubric for question 4: $ (no change)
+[TA 1] Modified rubric for question 5: h -> i (saved)
+[TA 1] Marking student 3815 question 5 (will take 1.165 s)
+[TA 2] Finished marking student 3815 question 4
+[TA 2] Loaded exam 20 (student 9999).
+[TA 2] Detected sentinel student 9999. Exiting.
+[TA 3] Finished marking student 9999 question 3
+[TA 3] Marking student 9999 question 1 (will take 1.792 s)
+[TA 1] Finished marking student 9999 question 5
+[TA 1] Marking student 9999 question 2 (will take 1.291 s)
+[TA 1] Finished marking student 9999 question 2
+[TA 1] Marking student 9999 question 3 (will take 1.565 s)
+[TA 3] Finished marking student 9999 question 1
+[TA 3] Marking student 9999 question 4 (will take 1.130 s)
+[TA 3] Finished marking student 9999 question 4
+[TA 3] Marking student 9999 question 5 (will take 1.253 s)
+[TA 1] Finished marking student 9999 question 3
+[TA 3] Finished marking student 9999 question 5
+All TAs finished. Parent exiting.
